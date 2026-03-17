@@ -10,11 +10,10 @@ body {
     background: #000;
     color: #fff;
     padding-top: 100px;
-    overflow: hidden;
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 650px;
     margin: 0 auto;
     padding: 0 20px;
 }
